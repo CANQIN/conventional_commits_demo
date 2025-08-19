@@ -1,4 +1,6 @@
 {
+  "name": "conventional-commits-demo",
+  "version": "2.6.0",
   "devDependencies": {
     "@commitlint/cli": "^19.8.1",
     "@commitlint/config-conventional": "^19.8.1",
